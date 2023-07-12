@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "learn HTML",
+      "text": "I want to know HTML",
+      "state": "done"
+    },
+    {
+      "id": 3,
+      "title": "learn JavaScript",
+      "text": "I want to master my JS knowledge",
+      "state": "done"
+    },
+    {
+      "title": "test22",
+      "text": "test33",
+      "id": 6,
+      "state": "in progress"
+    },
+    {
+      "title": "test",
+      "text": "test",
+      "id": 7,
+      "state": "done"
+    }
+  ]
+}
